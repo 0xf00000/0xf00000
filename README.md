@@ -3,8 +3,6 @@
 
 <h1 align="center">0xf00000</h1>
 
-<br>
-
 <h5 align="center">
 
 Greetings, I am <b>0xf00000</b>, a cybersecurity professional specializing in reverse engineering, web hacking, and hardware hacking. With a focus on developing exploits, I actively engage in 0day and bug hunting to enhance system security. My approach involves strategic analysis and precise identification of vulnerabilities. Let's connect and contribute to advancing cybersecurity solutions.
